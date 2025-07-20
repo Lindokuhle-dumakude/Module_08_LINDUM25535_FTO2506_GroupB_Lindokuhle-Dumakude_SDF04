@@ -107,57 +107,12 @@ outline: 3px solid #4F46E5;
 
 /* Act as a hyperlink when I hover over the text. */
 
-.home {
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
-.who-we-are {
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
-.our-philosophy {
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
-.HTML {
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
-.CSS {
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
-.JavaScript {
+.footer-link {
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
-.home:hover {
-    cursor: pointer;
-    color: blue;
-    text-decoration: underline;
-}
-.who-we-are:hover {
-    cursor: pointer;
-    color: blue;
-    text-decoration: underline;
-}
-.our-philosophy:hover {
-    cursor: pointer;
-    color: blue;
-    text-decoration: underline;
-}
-.HTML:hover {
-    cursor: pointer;
-    color: blue;
-    text-decoration: underline;
-}
-.CSS:hover {
-    cursor: pointer;
-    color: blue;
-    text-decoration: underline;
-}
-.JavaScript:hover {
+.footer-link:hover {
     cursor: pointer;
     color: blue;
     text-decoration: underline;
